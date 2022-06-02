@@ -1,3 +1,4 @@
-x = 1
-y = 2
-print(x + y)
+x = 15
+y = 25
+z = 35
+print((x + y)*z)
